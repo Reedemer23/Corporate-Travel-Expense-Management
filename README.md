@@ -1,5 +1,6 @@
 # Corporate-Travel-Expense-Management
-Problem Statement:
+🛑 Problem Statement
+
 In many organizations, employees submit travel and expense claims via emails and spreadsheets, which creates:
 
 1>Delays in approvals
@@ -8,7 +9,8 @@ In many organizations, employees submit travel and expense claims via emails and
 
 3>Difficulty in tracking department-wise expenses
 
-Solution:
+✅ Solution
+
 This Salesforce application digitizes the entire process:
 
 1>Employees submit expenses directly in Salesforce
